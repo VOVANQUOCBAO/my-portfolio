@@ -40,3 +40,4 @@ images/ — ảnh cá nhân và favicon
 - GitHub Pages: https://vovanquocbao.github.io/my-portfolio/
 - Vercel: https://vo-van-quoc-bao-portfolio.vercel.app
 
+- Cloudflare Pages: https://vo-van-quoc-bao-portfolio.pages.dev
