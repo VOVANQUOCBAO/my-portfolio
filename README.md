@@ -34,3 +34,9 @@ js/config.js — thông tin cá nhân và endpoint form
 js/script.js — dark mode, localStorage, Intersection Observer
 images/ — ảnh cá nhân và favicon
 
+
+## Link đã triển khai
+- GitHub: https://github.com/VOVANQUOCBAO/my-portfolio
+- GitHub Pages: https://vovanquocbao.github.io/my-portfolio/
+- Vercel: https://vo-van-quoc-bao-portfolio.vercel.app
+
