@@ -1,4 +1,4 @@
-# Portfolio — Bài 22 và Bài 23 / Chương 6
+# Portfolio — 
 
 ## Trạng thái
 Portfolio của Võ Văn Quốc Bảo đã có tên và ảnh cá nhân. Domain riêng và endpoint Formspree chưa cấu hình. Các dự án được ghi rõ là minh họa.
